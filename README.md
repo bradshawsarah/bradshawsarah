@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**bradshawsarah/bradshawsarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: reimagining the dev handoff process for the AI era, exploring how design context, systems thinking, and collaboration evolve alongside intelligent tooling.
 
@@ -20,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns she/her/hers
 
 - ⚡ Fun fact I have dove with sharks multiple times and can't get enough!
--->
